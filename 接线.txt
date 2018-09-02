@@ -1,0 +1,32 @@
+304 x.en
+306 x.dir
+307 x.step
+
+404 y.en
+406 y.dir
+407 y.step
+
+504 z.en
+506 z.dir
+507 z.step
+
+并口                           tp
+
+2 x.step                       307
+3 x.dir                        306
+4 y.step                       407
+5 y.dir                         406
+6 z.step                        507
+7 z.dir                         506
+
+8 y.en  -------         
+9 z.en  ------- -->   one pin    404
+14 x.en -------
+
+
+
+需要改进的地方：
+用SD卡
+放电电路
+SD卡保护电路
+
